@@ -2,4 +2,5 @@
 
 Examples of programs in Rust.
 
-1. [TCP Echo Server](tcp-echo-server/)
+- [Simple Rust Examples](simple/)
+- [TCP Echo Server](tcp-echo-server/)
