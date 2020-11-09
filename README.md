@@ -8,3 +8,4 @@ Examples programs in Rust:
 - [Hash Server](hash-server/)
 - [JSON Examples](json/)
 - [Docker Example](docker/)
+- [Color Parser](parser/)
