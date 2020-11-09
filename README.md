@@ -6,3 +6,5 @@ Examples programs in Rust:
 - [TCP Echo Server](tcp-echo-server/)
 - [Simple HTTP Server](simple-http-server/)
 - [Hash Server](hash-server/)
+- [JSON Examples](json/)
+- [Docker Example](docker/)
